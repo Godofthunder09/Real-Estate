@@ -100,8 +100,6 @@ smart-land-management/
 
 ## 📸 Screenshots
 
-(Add screenshots of your homepage, user dashboard, 
-admin panel, and property listing page here)
 
 ---
 
