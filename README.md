@@ -99,6 +99,7 @@ smart-land-management/
 ---
 
 ## 📸 Screenshots
+[Homepage](https://github.com/user-attachments/assets/d2f0c21f-5f1b-458e-a994-ab622b981e29)
 
 
 ---
