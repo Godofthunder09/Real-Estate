@@ -58,7 +58,7 @@ for sale and rent.
 ## 🚀 How to Run Locally
 
 1. Clone the repository
-   git clone https://github.com/Godofthunder09/smart-land-management.git
+   git clone https://github.com/Godofthunder09/Real-Estate.git
 
 2. Import the database
    - Open phpMyAdmin
