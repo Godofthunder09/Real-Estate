@@ -99,7 +99,10 @@ smart-land-management/
 ---
 
 ## 📸 Screenshots
-[Homepage](https://github.com/user-attachments/assets/d2f0c21f-5f1b-458e-a994-ab622b981e29)
+![Homepage](https://github.com/user-attachments/assets/d2f0c21f-5f1b-458e-a994-ab622b981e29)
+![Property-View](https://github.com/user-attachments/assets/d81ab1c9-4c59-4144-8991-bb8c028c3636)
+![Admin-Dashboard](https://github.com/user-attachments/assets/4a195b13-09f8-4fb6-a140-84ab532c17e8)
+![Property-Listings](https://github.com/user-attachments/assets/7a752d66-e199-4eb9-9500-7c1fcc311a7c)
 
 
 ---
