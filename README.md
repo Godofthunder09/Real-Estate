@@ -4,7 +4,7 @@ A full-stack real estate web application with separate User and Admin
 portals for managing, listing, searching, and tracking land properties 
 for sale and rent.
 
-🔗 Live Demo: https://realest.42web.io/
+🔗 Live Demo: https://realestate.zya.me/
 
 ---
 
